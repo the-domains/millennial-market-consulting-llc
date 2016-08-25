@@ -24,9 +24,5 @@ cta:
   domain: null
   bucket: null
   version: null
-navigation:
-  - name: Contact
-    id: 28dca970-818c-4cab-a357-1bbfb512505e
-    type: content
 favicon: null
 purpose: []
