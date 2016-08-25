@@ -1,7 +1,18 @@
+layout_spectrum: 0.6330914460122585
+typography_spectrum: 0.9369563574437052
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.6029493522364646
+  lightness: 0.12702064123004675
+  saturation: 0.23119887430220842
+  rhythmicContrast: 0.31696593249216676
 name: 'Millennial Market Consulting, LLC'
 favicon: null
-layout_spectrum: 0.6330914460122585
-typography_spectrum: 0.7077410987112671
 cta:
   domain: null
   bucket: null
@@ -14,15 +25,4 @@ opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-  brandStrength: 0.6029493522364646
-  lightness: 0.12702064123004675
-  saturation: 0.23119887430220842
-  rhythmicContrast: 0.31696593249216676
 purpose: []
