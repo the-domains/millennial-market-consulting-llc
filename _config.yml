@@ -1,4 +1,3 @@
-layout_spectrum: 0.6330914460122585
 typography_spectrum: 0.9369563574437052
 color:
   brandColors:
@@ -11,18 +10,23 @@ color:
   lightness: 0.12702064123004675
   saturation: 0.23119887430220842
   rhythmicContrast: 0.31696593249216676
-name: 'Millennial Market Consulting, LLC'
-favicon: null
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.6330914460122585
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: 'Millennial Market Consulting, LLC'
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: Contact
+    id: 28dca970-818c-4cab-a357-1bbfb512505e
+    type: content
+favicon: null
 purpose: []
