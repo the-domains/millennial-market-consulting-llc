@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-25T07:31:36.344Z'
+datePublished: '2016-08-25T07:34:39.963Z'
 sourcePath: _posts/2016-08-25-welcome-to-mmcs-brand-new-website-in-the-coming-weeks-our.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-25T07:31:35.544Z'
+dateModified: '2016-08-25T07:34:39.545Z'
 title: ''
 publisher: {}
 description: >-
@@ -29,4 +29,4 @@ Millennial Market Consulting was founded to bring information to companies large
 
 I look forward to working with you after my business is completely up and running!
 
--Kaleb Wynne, Owner & Consultant of MMC
+-Kaleb Wynne, Consultant & Owner of MMC
