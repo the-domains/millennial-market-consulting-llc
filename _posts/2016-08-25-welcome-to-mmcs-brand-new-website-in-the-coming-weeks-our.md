@@ -1,27 +1,27 @@
 ---
+datePublished: '2016-08-25T07:31:36.344Z'
+sourcePath: _posts/2016-08-25-welcome-to-mmcs-brand-new-website-in-the-coming-weeks-our.md
 inFeed: true
+authors: []
 hasPage: true
-inNav: false
-inLanguage: null
 keywords: []
+author: []
+via: {}
+dateModified: '2016-08-25T07:31:35.544Z'
+title: ''
+publisher: {}
 description: >-
   Welcome to MMC's brand new website! In the coming weeks, our site will be
   built from the ground up, so please bear with us as we work on this daunting
-  task! 
-datePublished: '2016-08-25T07:28:44.118Z'
-dateModified: '2016-08-25T07:26:18.723Z'
-title: ''
-author: []
-via: {}
-sourcePath: _posts/2016-08-25-welcome-to-mmcs-brand-new-website-in-the-coming-weeks-our.md
-authors: []
-publisher: {}
+  task!
+inLanguage: null
+inNav: false
 starred: false
 url: welcome-to-mmcs-brand-new-website-in-the-coming-weeks-our/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/79f9a4b1-f96f-4d43-ac98-d211173df6dd.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a759c70f-396b-4f0c-b4a7-3551f23afeb8.jpg)
 
 Welcome to MMC's brand new website! In the coming weeks, our site will be built from the ground up, so please bear with us as we work on this daunting task!
 
